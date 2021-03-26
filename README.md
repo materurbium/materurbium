@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @materurbium
-- 👀 I’m interested in javascript, CSS, HTML, and Linux.
-- 🌱 I’m currently learning Linux and Javacript.
-- 💞️ I’m looking to collaborate on Linux.
+- 👀 I’m interested in Javascript, CSS, HTML, and Linux.
 - 📫 How to reach me ...
 
 <!---
